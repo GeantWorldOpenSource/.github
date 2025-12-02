@@ -10,4 +10,4 @@ We created this organisation for sharing some public/archived projects
 # contact us
 you can contact by email:
 <br>
-contact@geantworld.studio <-
+contact@geantworld.com <-
