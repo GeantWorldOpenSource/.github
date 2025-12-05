@@ -7,6 +7,9 @@ We created this organisation for sharing some public/archived projects
 # Archived projects
 - nothing at the moment
 
+# Open source project
+- Into the stars
+
 # contact us
 you can contact by email:
 <br>
