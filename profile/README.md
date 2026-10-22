@@ -8,9 +8,9 @@ We created this organisation for sharing some public/archived projects
 - nothing at the moment
 
 # Open source project
-- Into the stars
+- nothing at the moment
 
 # contact us
 you can contact by email:
 <br>
-contact@geantworld.com <-
+contact@geantworld.eu <-
